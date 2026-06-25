@@ -175,12 +175,11 @@ Adjust these angles after assembling the arm:
 ```
 Picko/
 ├── README.md
-├── code
+├── code.io
 └── assets/
     ├── factory_map.png
     ├── ui_manual.png
-    ├── ui_auto.png
-    └── schematic.png
+    └──ui_auto.png 
 ```
 
 ---
