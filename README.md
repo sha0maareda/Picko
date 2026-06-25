@@ -175,9 +175,7 @@ Adjust these angles after assembling the arm:
 ```
 Picko/
 ├── README.md
-├── code/
-│   ├── picko_full.ino         # Full version with navigation
-│   └── picko_exhibition.ino   # Exhibition version (UI only)
+├── code
 └── assets/
     ├── factory_map.png
     ├── ui_manual.png
@@ -189,7 +187,7 @@ Picko/
 
 ## Future Improvements
 
-- [ ] Add color sensor for object classification
+- [ ] Add sorting method for object classification at packaging station
 - [ ] Implement wheel encoders for more accurate navigation
 - [ ] Fine-tune arm positions with inverse kinematics
 - [ ] Add camera-based station detection
