@@ -6,8 +6,9 @@ Picko is a mobile robot arm that simulates an industrial pick-and-place system. 
 
 ## Demo
 
-![Picko Robot](assets/demo.png)
-
+<p align="center">
+  <img src="assets/demo.png" width="700">
+</p>
 ---
 
 ## Concept
