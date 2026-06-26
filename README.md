@@ -7,7 +7,7 @@ Picko is a mobile robot arm that simulates an industrial pick-and-place system. 
 ## Demo
 
 <p align="center">
-  <img src="assets/demo.png" width="600">
+  <img src="assets/demo.png" width="500">
 </p>
 ---
 
@@ -30,7 +30,7 @@ Picko mimics a real-world factory material handling system:
 [Packaging]  -------- [Home]
 ```
 <p align="center">
-  <img src="assets/factory_map.png" width="600">
+  <img src="assets/factory_map.png" width="500">
 </p>
 Picko always travels in one direction around the loop:
 **Home → Warehouse → Production → Packaging → Home**
@@ -130,8 +130,8 @@ Open browser at: `http://192.168.4.1`
 ### Screenshots
 
 <p align="center">
-  <img src="assets/ui_manual.png" width="48%">
-  <img src="assets/ui_auto.png" width="48%">
+  <img src="assets/ui_manual.png" width="40%">
+  <img src="assets/ui_auto.png" width="40%">
 </p>![Manaual page](assets/ui_manual.png)
 ![Auto Page](assets/ui_auto.png)
 
